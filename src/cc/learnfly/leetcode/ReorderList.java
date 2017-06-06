@@ -33,7 +33,7 @@ public class ReorderList {
 				first.next = after;
 				first = temp1;
 				after.next = first;
-				after = temp2;     
+				//after = temp2;     
 			
 			}
 		
